@@ -1,0 +1,31 @@
+2022/05/27 +0800, subject ID: 010
+
+11:42:42 start RUN-1
+stimuli event end at 11:44:45
+
+11:45:13 start RUN-2
+stimuli event end at 11:49:06
+
+11:49:43 start RUN-3
+stimuli event end at 11:53:37
+
+11:54:05 start RUN-4
+stimuli event end at 11:57:58
+
+11:58:31 start RUN-5
+stimuli event end at 12:02:25
+
+12:02:59 start RUN-6
+stimuli event end at 12:06:53
+
+12:07:23 start RUN-7
+stimuli event end at 12:11:17
+
+12:12:00 start RUN-8
+stimuli event end at 12:15:53
+
+12:16:25 start RUN-9
+stimuli event end at 12:20:18
+
+12:20:46 start RUN-10
+stimuli event end at 12:22:56

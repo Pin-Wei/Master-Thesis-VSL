@@ -1,0 +1,31 @@
+2022/09/26 +0800, subject ID: 125
+
+13:22:03 start RUN-1
+stimuli event end at 13:29:34
+
+13:30:07 start RUN-2
+stimuli event end at 13:34:01
+
+13:34:34 start RUN-3
+stimuli event end at 13:38:27
+
+13:38:56 start RUN-4
+stimuli event end at 13:42:54
+
+13:43:22 start RUN-5
+stimuli event end at 13:47:17
+
+13:47:58 start RUN-6
+stimuli event end at 13:51:51
+
+13:52:19 start RUN-7
+stimuli event end at 13:56:12
+
+13:56:50 start RUN-8
+stimuli event end at 14:00:44
+
+14:01:19 start RUN-9
+stimuli event end at 14:05:13
+
+14:05:41 start RUN-10
+stimuli event end at 14:13:09

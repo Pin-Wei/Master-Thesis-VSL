@@ -1,0 +1,31 @@
+2022/07/15 +0800, subject ID: 107
+
+13:57:58 start RUN-1
+stimuli event end at 14:05:36
+
+14:06:11 start RUN-2
+stimuli event end at 14:10:10
+
+14:10:34 start RUN-3
+stimuli event end at 14:14:27
+
+14:14:55 start RUN-4
+stimuli event end at 14:18:47
+
+14:19:15 start RUN-5
+stimuli event end at 14:23:09
+
+14:23:40 start RUN-6
+stimuli event end at 14:27:32
+
+14:28:00 start RUN-7
+stimuli event end at 14:31:53
+
+14:32:24 start RUN-8
+stimuli event end at 14:36:18
+
+14:36:57 start RUN-9
+stimuli event end at 14:40:50
+
+14:41:16 start RUN-10
+stimuli event end at 14:48:47

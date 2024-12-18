@@ -1,0 +1,41 @@
+2022/04/11 +0800, subject ID: 004
+
+10:18:35 start RUN-1
+Duration from first to last stimuli event (+1s) = 111.74 (s)
+stimuli event end at 10:20:48
+
+10:21:20 start RUN-2
+Duration from first to last stimuli event (+1s) = 223.82 (s)
+stimuli event end at 10:25:14
+
+10:25:42 start RUN-3
+Duration from first to last stimuli event (+1s) = 223.8 (s)
+stimuli event end at 10:29:34
+
+10:30:02 start RUN-4
+Duration from first to last stimuli event (+1s) = 223.8 (s)
+stimuli event end at 10:33:55
+
+10:34:31 start RUN-5
+Duration from first to last stimuli event (+1s) = 223.8 (s)
+stimuli event end at 10:38:23
+
+10:38:52 start RUN-6
+Duration from first to last stimuli event (+1s) = 223.8 (s)
+stimuli event end at 10:42:45
+
+10:43:18 start RUN-7
+Duration from first to last stimuli event (+1s) = 223.8 (s)
+stimuli event end at 10:47:10
+
+10:47:36 start RUN-8
+Duration from first to last stimuli event (+1s) = 223.8 (s)
+stimuli event end at 10:51:30
+
+10:52:17 start RUN-9
+Duration from first to last stimuli event (+1s) = 223.73 (s)
+stimuli event end at 10:56:10
+
+10:56:44 start RUN-10
+Duration from first to last stimuli event (+1s) = 111.81 (s)
+stimuli event end at 10:58:51

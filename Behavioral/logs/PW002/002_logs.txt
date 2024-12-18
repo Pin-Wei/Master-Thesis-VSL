@@ -1,0 +1,41 @@
+2022/03/28 +0800 10:22:28, subject ID: 002
+
+10:22:28 RUN-1
+duration from first to last trigger = 126.93 (s)
+stimuli event end at 10:25:05
+
+10:25:42 RUN-2
+duration from first to last trigger = 242.36 (s)
+stimuli event end at 10:29:41
+
+10:30:11 RUN-3
+duration from first to last trigger = 245.42 (s)
+stimuli event end at 10:34:13
+
+10:35:02 RUN-4
+duration from first to last trigger = 236.4 (s)
+stimuli event end at 10:38:55
+
+10:40:18 RUN-54
+duration from first to last trigger = 240.37 (s)
+stimuli event end at 10:44:14
+
+10:45:22 RUN-6
+duration from first to last trigger = 239.18 (s)
+stimuli event end at 10:49:18
+
+10:50:56 RUN-7
+duration from first to last trigger = 236.95 (s)
+stimuli event end at 10:54:49
+
+10:55:29 RUN-8
+duration from first to last trigger = 254.02 (s)
+stimuli event end at 10:59:40
+
+11:00:37 RUN-9
+duration from first to last trigger = 236.81 (s)
+stimuli event end at 11:04:30
+
+11:05:10 RUN-10
+duration from first to last trigger = 134.76 (s)
+stimuli event end at 11:07:21

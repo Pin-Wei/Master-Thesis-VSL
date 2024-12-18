@@ -1,0 +1,31 @@
+2022/07/18 +0800, subject ID: 110
+
+10:02:05 start RUN-1
+stimuli event end at 10:09:29
+
+10:09:48 start RUN-2
+stimuli event end at 10:13:41
+
+10:14:04 start RUN-3
+stimuli event end at 10:17:57
+
+10:18:21 start RUN-4
+stimuli event end at 10:22:14
+
+10:22:37 start RUN-5
+stimuli event end at 10:26:32
+
+10:26:54 start RUN-6
+stimuli event end at 10:30:49
+
+10:31:09 start RUN-7
+stimuli event end at 10:35:04
+
+10:35:25 start RUN-8
+stimuli event end at 10:39:20
+
+10:39:42 start RUN-9
+stimuli event end at 10:43:36
+
+10:44:10 start RUN-10
+stimuli event end at 10:51:38

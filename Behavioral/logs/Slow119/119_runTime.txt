@@ -1,0 +1,31 @@
+2022/08/17 +0800, subject ID: 119
+
+09:16:16 start RUN-1
+stimuli event end at 09:24:39
+
+09:24:58 start RUN-2
+stimuli event end at 09:28:54
+
+09:29:17 start RUN-3
+stimuli event end at 09:33:10
+
+09:33:31 start RUN-4
+stimuli event end at 09:37:24
+
+09:37:50 start RUN-5
+stimuli event end at 09:41:43
+
+09:42:13 start RUN-6
+stimuli event end at 09:46:06
+
+09:46:29 start RUN-7
+stimuli event end at 09:50:22
+
+09:50:44 start RUN-8
+stimuli event end at 09:54:37
+
+09:55:02 start RUN-9
+stimuli event end at 09:59:03
+
+09:59:26 start RUN-10
+stimuli event end at 10:06:50
