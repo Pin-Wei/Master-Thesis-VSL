@@ -1,5 +1,3 @@
-# Master-fMRI-Project
-
 These scripts were developed during my master’s research, analyzing fMRI data collected from an experiment where participants performed a visual statistical learning task. 
 Please note that the underlying database is not currently publicly available.
 
